@@ -37,62 +37,62 @@
             "name": "RockstarGames.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/RockstarGames.png"
         },
-		        {
+        {
             "name": "SupercellLogoBlack.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/SupercellLogoBlack.png"
         },
-		        {
+        {
             "name": "copilot.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/copilot.png"
         },
-		        {
+        {
             "name": "garena.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/garena.png"
         },
-		        {
+        {
             "name": "gemini.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/gemini.png"
         },
-		        {
+        {
             "name": "gog-dot-com.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/gog-dot-com.png"
         },
-		        {
+        {
             "name": "gog.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/gog.png"
         },
-		        {
+        {
             "name": "nga.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/nga.png"
         },
-		        {
+        {
             "name": "nintendo-2.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/nintendo-2.png"
         },
-		        {
+        {
             "name": "origin.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/origin.png"
         },
-		        {
+        {
             "name": "purikonejp.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/purikonejp.png"
         },
-		        {
+        {
             "name": "riot.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/riot.png"
         },
-		        {
+        {
             "name": "threads-fill.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/threads-fill.png"
         },
-		        {
+        {
             "name": "youku.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/youku.png"
         },
-		        {
+        {
             "name": "zhanqi.png",
             "url": "https://raw.githubusercontent.com/liuniqux/x-icon/main/icon/zhanqi.png"
         }
     ],
-    "name": "Qure Color (Server)"
+    "name": "x-icon"
 }
